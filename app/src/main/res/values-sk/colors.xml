@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="text_cyan">#2DC9D7</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="text_black">#000000</color>
+
+    <color name="bkg_color">#DDDDDD</color>
+    <color name="spn_bkg">#DDDDDD</color>
+
+    <color name="btn_bkg">#FFB636</color>
+</resources>

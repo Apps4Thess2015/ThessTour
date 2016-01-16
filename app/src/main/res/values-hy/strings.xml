@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ThessTour</string>
+    <string name="title_activity_map">Qartez</string>
+
+    <string name="welcome">Bari galust Thessaloniki</string>
+    <string name="tour_time">Jamanak champordutyan hamar</string>
+    <string name="you_are">Du kas</string>
+    <string name="make_plan">Kazmir cragir indz hamar</string>
+    <string name="show_map">Show me on map</string>
+    <string name="help_us">Ognir mez kazmel qo plany</string>
+    <string name="your_plan">Qo plany</string>
+    <string name="turn_on_gps">Xndrum em miacru GPS y</string>
+
+    <string name="menu_help">Ogneq</string>
+    <string name="menu_about">Swxmir aveli shat informacia stanalu hamar</string>
+
+    <string name="lang">hy</string>
+
+    <string-array name="Jamanak">
+        <item>2 Jamer</item>
+        <item>4 Jamer</item>
+        <item>6 Jamer</item>
+        <item>12 Jamer</item>
+    </string-array>
+
+    <string-array name="youare">
+        <item>Miaynak</item>
+        <item>Zuyg</item>
+        <item>Xumb</item>
+    </string-array>
+    <string name="help_text">This application is basically a tour guide that provides assistance, information and cultural, historical and contemporary heritage interpretation to people on organized tours and individual clients at educational establishments, religious and historical sites, museums and at venues of other significant interest. A simple app that presents some important landmarks in Thessaloniki in a specific area according to the user s choice. Its like having a personal tour guide in your pocket.\n
+An application that can offer to users a tour program and visits with the best route in the city depending on the time you have available, the time, the day, the season and  the category of visitors ( an individual, couple, group ) . The application selects the best path with some visitation points and you also have the ability to see the path on a map. When you are close to monument you will receive a notification with some further information for the specific monument.\n
+Our content is made by the best local tour-guides, who know the most interesting sites to show you. All tours are personally tested by our staff.
+</string>
+
+</resources>

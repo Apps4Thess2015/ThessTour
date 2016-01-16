@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ThessTour</string>
+    <string name="title_activity_map">Kelioni</string>
+
+    <string name="welcome">Sveiki dtryke Thessaloniki</string>
+    <string name="tour_time">Laikas jusu kelioni</string>
+    <string name="you_are">Jus esate</string>
+    <string name="make_plan">Padaryk man plana</string>
+    <string name="show_map">Parodyk zemelapyje</string>
+    <string name="help_us">Padek mums padaryti tavo plana</string>
+    <string name="your_plan">Jusu Planas</string>
+
+    <string name="lang">lt</string>
+
+    <string-array name="time">
+        <item>2 Valandos</item>
+        <item>4 Valandos</item>
+        <item>6 Valandos</item>
+        <item>12 Valandos</item>
+    </string-array>
+
+    <string-array name="youare">
+        <item>Vienas</item>
+        <item>Pora</item>
+        <item>Grupe</item>
+    </string-array>
+    <string name="menu_help">Padėkite</string>
+    <string name="menu_about">dėl</string>
+    <string name="turn_on_gps">Prašome įjungti GPS</string>
+    <string name="help_text">This application is basically a tour guide that provides assistance, information and cultural, historical and contemporary heritage interpretation to people on organized tours and individual clients at educational establishments, religious and historical sites, museums and at venues of other significant interest. A simple app that presents some important landmarks in Thessaloniki in a specific area according to the user s choice. Its like having a personal tour guide in your pocket.\n
+An application that can offer to users a tour program and visits with the best route in the city depending on the time you have available, the time, the day, the season and  the category of visitors ( an individual, couple, group ) . The application selects the best path with some visitation points and you also have the ability to see the path on a map. When you are close to monument you will receive a notification with some further information for the specific monument.\n
+Our content is made by the best local tour-guides, who know the most interesting sites to show you. All tours are personally tested by our staff.
+</string>
+
+</resources>

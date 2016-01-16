@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ThessTour</string>
+    <string name="title_activity_map">Map</string>
+
+    <string name="welcome">Welcome to Thessaloniki</string>
+    <string name="tour_time">Time for the tour</string>
+    <string name="you_are">You are</string>
+    <string name="make_plan">Make me a Plan</string>
+    <string name="show_map">Show me on map</string>
+    <string name="help_us">Help us make your plan</string>
+    <string name="your_plan">Your Plan</string>
+    <string name="turn_on_gps">Please Turn On GPS</string>
+
+    <string name="menu_help">Help</string>
+    <string name="menu_about">About</string>
+
+    <string name="lang">en</string>
+
+    <string-array name="time">
+        <item>2 Hours</item>
+        <item>4 Hours</item>
+        <item>6 Hours</item>
+        <item>12 Hours</item>
+    </string-array>
+
+    <string-array name="youare">
+        <item>Single</item>
+        <item>Couple</item>
+        <item>Group</item>
+    </string-array>
+
+    <string name="help_text">This application is basically a tour guide that provides assistance, information and cultural, historical and contemporary heritage interpretation to people on organized tours and individual clients at educational establishments, religious and historical sites, museums and at venues of other significant interest. A simple app that presents some important landmarks in Thessaloniki in a specific area according to the user s choice. Its like having a personal tour guide in your pocket.\n
+An application that can offer to users a tour program and visits with the best route in the city depending on the time you have available, the time, the day, the season and  the category of visitors ( an individual, couple, group ) . The application selects the best path with some visitation points and you also have the ability to see the path on a map. When you are close to monument you will receive a notification with some further information for the specific monument.\n
+Our content is made by the best local tour-guides, who know the most interesting sites to show you. All tours are personally tested by our staff.
+</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
